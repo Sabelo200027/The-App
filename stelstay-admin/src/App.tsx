@@ -1,3 +1,3 @@
-import MyAdmin from "./admin";
+import MyAdmin from "./index";
 const App = () => <MyAdmin />;
 export default App;
